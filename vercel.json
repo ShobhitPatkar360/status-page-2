@@ -9,7 +9,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "watcher.js"
+      "dest": "static/index.html"
     }
   ]
 }
